@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DreamTeamMR.unity
+  isLoaded: 1
+  isActive: 1
